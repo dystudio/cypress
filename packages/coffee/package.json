@@ -8,8 +8,5 @@
   },
   "dependencies": {
     "coffeescript": "1.12.7"
-  },
-  "files": [
-    "register.js"
-  ]
+  }
 }
